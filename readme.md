@@ -1,4 +1,4 @@
-## Passport 多用于认证测试Demo
+## Passport 多用户认证测试Demo
 
 ### 版本说明
 - Laravel 5.8.*
